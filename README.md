@@ -86,16 +86,3 @@ Automated invoice generation to close the gap between delivery confirmation and 
 | Google Colab | Notebook environment |
 | Zapier | No-code workflow automation |
 | Google Sheets / Docs / Drive | Data source, invoice template, file storage |
-
----
-
-## Repository Structure
-
-```
-├── README.md
-├── process_map/
-│   └── bolt_socks_process_map.pdf       # Lucidchart swim lane export
-└── data/
-    ├── order_to_cash_event_log.csv      # SAP event log (5,047 orders, 33,615 events)
-    └── zapier_run_history.csv           # Zapier automation run results
-```
