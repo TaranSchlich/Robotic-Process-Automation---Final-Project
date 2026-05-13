@@ -1,0 +1,10 @@
+case_id,activity,timestamp
+2208767001,Sales Order Created,09.12.2017 00:12:46
+2208767001,Payment Received,17.12.2017 08:22:39
+2208767001,Invoice Created,15.12.2017 23:42:47
+2208767001,Confirmed Delivery Date,14.12.2017 08:03:54
+2208767001,Delivery Completed,14.12.2017 21:45:18
+2208767001,Shipment Sent,14.12.2017 15:52:42
+2208767001,Customer pick-up,14.12.2017 15:40:38
+2208767001,Picking Done,11.12.2017 11:02:22
+[see full file - 33,615 rows from SAP event log]
