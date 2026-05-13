@@ -1,0 +1,9 @@
+run_id,date,zap_name,status,invoice_title,order_number,customer,quantity,amount_due,invoice_date
+019c06f4-f589-a166-f522-87b5e7d36214,2026-05-02T21:50:50.805151+00:00,Bolt Socks,success,Invoice - 342540,342540,Retail by Nature,4500,$13500,5/2/2026
+019c06f4-cdd2-aee7-e196-043aa83460a4,2026-05-02T21:50:50.804903+00:00,Bolt Socks,success,Invoice - 342539,342539,Wick N Fluff,3000,$9000,5/2/2026
+019c06f4-8da3-a61c-f0f8-0b6bdf6d93c4,2026-05-02T21:50:50.804657+00:00,Bolt Socks,success,Invoice - 342538,342538,The Shoe Boys,900,$2700,5/2/2026
+019c06f4-6387-a052-72f9-339c6ac27e34,2026-05-02T21:50:50.804386+00:00,Bolt Socks,success,Invoice - 342537,342537,Truby's Apparel,7000,$21000,5/2/2026
+019c06f4-3e44-ab8b-d39d-7c308f6c6784,2026-05-02T21:50:50.804135+00:00,Bolt Socks,success,Invoice - 342536,342536,Barefoot Joe's,2500,$7500,5/2/2026
+019c06f4-c4b1-a03c-4a90-ef6033a9a0f4,2026-05-02T21:50:50.803872+00:00,Bolt Socks,success,Invoice - 342535,342535,Roots of Good,350,$1050,5/2/2026
+019c06f4-0bdf-a97e-d6f9-c94c7bdcb2e4,2026-05-02T21:50:50.803517+00:00,Bolt Socks,success,Invoice - 342534,342534,Sneaker Zies,100,$300,5/2/2026
+019c06f4-f3f8-abe0-5ff6-6c690d6341d4,2026-05-02T21:50:49.044000+00:00,Bolt Socks,success,Invoice - 342533,342533,Wetzel's Fun Corner,4000,$12000,5/2/2026
